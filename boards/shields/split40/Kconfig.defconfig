@@ -1,7 +1,7 @@
 if SHIELD_SPLIT40_L
 
 config ZMK_KEYBOARD_NAME
-    default "Split40_L"
+    default "Split40"
 
 config ZMK_BLE
     default y
